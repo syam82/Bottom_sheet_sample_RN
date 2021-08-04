@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Loved.iml" filepath="$PROJECT_DIR$/.idea/modules/Loved.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Loved.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Loved.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/943608200/Loved.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/943608200/Loved.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1285645233/Loved.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1285645233/Loved.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/425413741/Loved.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/425413741/Loved.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2096880888/Loved.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/2096880888/Loved.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-469724400/Loved.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-469724400/Loved.react-native-screens.iml" />
+    </modules>
+  </component>
+</project>

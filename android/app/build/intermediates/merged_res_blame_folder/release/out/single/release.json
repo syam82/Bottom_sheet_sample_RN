@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "/Users/syam/Desktop/loved/Loved/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_delete.png.flat",
+        "source": "/Users/syam/Desktop/loved/Loved/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_delete.png"
+    },
+    {
+        "merged": "/Users/syam/Desktop/loved/Loved/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/syam/Desktop/loved/Loved/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/syam/Desktop/loved/Loved/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnativerouterflux_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "/Users/syam/Desktop/loved/Loved/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnativerouterflux_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/syam/Desktop/loved/Loved/android/app/build/intermediates/res/merged/release/drawable-hdpi_node_modules_reactnativerouterflux_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "/Users/syam/Desktop/loved/Loved/android/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnativerouterflux_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/syam/Desktop/loved/Loved/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/syam/Desktop/loved/Loved/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/syam/Desktop/loved/Loved/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/syam/Desktop/loved/Loved/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/syam/Desktop/loved/Loved/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_save.png.flat",
+        "source": "/Users/syam/Desktop/loved/Loved/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_save.png"
+    },
+    {
+        "merged": "/Users/syam/Desktop/loved/Loved/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/syam/Desktop/loved/Loved/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/syam/Desktop/loved/Loved/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativerouterflux_images_menu_burger.png.flat",
+        "source": "/Users/syam/Desktop/loved/Loved/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativerouterflux_images_menu_burger.png"
+    },
+    {
+        "merged": "/Users/syam/Desktop/loved/Loved/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativerouterflux_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backiconmask.png.flat",
+        "source": "/Users/syam/Desktop/loved/Loved/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativerouterflux_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backiconmask.png"
+    },
+    {
+        "merged": "/Users/syam/Desktop/loved/Loved/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_node_modules_reactnativerouterflux_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "/Users/syam/Desktop/loved/Loved/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnativerouterflux_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/syam/Desktop/loved/Loved/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_splash.gif.flat",
+        "source": "/Users/syam/Desktop/loved/Loved/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_splash.gif"
+    },
+    {
+        "merged": "/Users/syam/Desktop/loved/Loved/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_share.png.flat",
+        "source": "/Users/syam/Desktop/loved/Loved/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_share.png"
+    },
+    {
+        "merged": "/Users/syam/Desktop/loved/Loved/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_invest.png.flat",
+        "source": "/Users/syam/Desktop/loved/Loved/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_invest.png"
+    },
+    {
+        "merged": "/Users/syam/Desktop/loved/Loved/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/syam/Desktop/loved/Loved/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/syam/Desktop/loved/Loved/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/syam/Desktop/loved/Loved/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/syam/Desktop/loved/Loved/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/syam/Desktop/loved/Loved/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/syam/Desktop/loved/Loved/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/syam/Desktop/loved/Loved/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/syam/Desktop/loved/Loved/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativerouterflux_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "/Users/syam/Desktop/loved/Loved/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativerouterflux_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/syam/Desktop/loved/Loved/android/app/build/intermediates/res/merged/release/raw_app.json.flat",
+        "source": "/Users/syam/Desktop/loved/Loved/android/app/build/generated/res/react/release/raw/app.json"
+    },
+    {
+        "merged": "/Users/syam/Desktop/loved/Loved/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_images_transfer.png.flat",
+        "source": "/Users/syam/Desktop/loved/Loved/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_transfer.png"
+    },
+    {
+        "merged": "/Users/syam/Desktop/loved/Loved/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/syam/Desktop/loved/Loved/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/syam/Desktop/loved/Loved/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/syam/Desktop/loved/Loved/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/syam/Desktop/loved/Loved/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnativerouterflux_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "/Users/syam/Desktop/loved/Loved/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnativerouterflux_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/syam/Desktop/loved/Loved/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativerouterflux_images_back_chevron.png.flat",
+        "source": "/Users/syam/Desktop/loved/Loved/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativerouterflux_images_back_chevron.png"
+    }
+]

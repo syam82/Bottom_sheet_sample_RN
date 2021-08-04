@@ -1,0 +1,6 @@
+module Pods_Loved_LovedTests {
+  umbrella header "Pods-Loved-LovedTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
